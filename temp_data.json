@@ -1,0 +1,16 @@
+{
+    "name":"Imran Khan",
+    "party":"PTI",
+    "Age":"75",
+    "votes":[
+        {
+        "user": "643uygud3267",
+        "votedAt":"2024-02-20T08:00:00.000Z"
+        },
+        {
+            "user": "643uygud3267",
+            "votedAt":"2024-02-20T08:00:00.000Z"
+            }
+    ],
+    "voteCount":2
+}
